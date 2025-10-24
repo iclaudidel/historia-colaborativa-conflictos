@@ -1,0 +1,3 @@
+En esta historia veremos como dos compañeros de clase se las ingenian
+para poder crear conflictos en un repositorio de github y ver como reaccionar
+a las situaciones propuestas por la docente de la asignatura
