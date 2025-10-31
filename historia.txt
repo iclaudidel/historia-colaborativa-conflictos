@@ -4,5 +4,5 @@ a las situaciones propuestas por la docente de la asignatura
 
 Ambos compañeros siguieron trabajando para desarrollar la historia
 
-Entonces uno de los compaleros borro el principio de la historia completa y el
-segundo compañero tubo que arreglar su cagada
+Entonces despues de mucho trabajo los dos compañeros de clase pudieron
+mergear todo a main sin conflictos
