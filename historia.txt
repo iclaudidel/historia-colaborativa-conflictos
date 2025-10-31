@@ -2,4 +2,4 @@ En esta historia veremos como dos compañeros de clase se las ingenian
 para poder crear conflictos en un repositorio de github y ver como reaccionar
 a las situaciones propuestas por la docente de la asignatura
 Ambos compañeros siguieron trabajando para desarrollar la historia
-Al final ambos compañeros pudieron terminar bien la historia sin conflictos
+Al final ambos compañeros pudieron terminar bien la historia sin conflictos.
